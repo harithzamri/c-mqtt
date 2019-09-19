@@ -1,0 +1,11 @@
+C:\Users\harith\source\repos\mqttTest\mqttTest\bin\Debug\netcoreapp2.1\mqttTest.deps.json
+C:\Users\harith\source\repos\mqttTest\mqttTest\bin\Debug\netcoreapp2.1\mqttTest.runtimeconfig.json
+C:\Users\harith\source\repos\mqttTest\mqttTest\bin\Debug\netcoreapp2.1\mqttTest.runtimeconfig.dev.json
+C:\Users\harith\source\repos\mqttTest\mqttTest\bin\Debug\netcoreapp2.1\mqttTest.dll
+C:\Users\harith\source\repos\mqttTest\mqttTest\bin\Debug\netcoreapp2.1\mqttTest.pdb
+C:\Users\harith\source\repos\mqttTest\mqttTest\obj\Debug\netcoreapp2.1\mqttTest.csproj.CoreCompileInputs.cache
+C:\Users\harith\source\repos\mqttTest\mqttTest\obj\Debug\netcoreapp2.1\mqttTest.AssemblyInfoInputs.cache
+C:\Users\harith\source\repos\mqttTest\mqttTest\obj\Debug\netcoreapp2.1\mqttTest.AssemblyInfo.cs
+C:\Users\harith\source\repos\mqttTest\mqttTest\obj\Debug\netcoreapp2.1\mqttTest.dll
+C:\Users\harith\source\repos\mqttTest\mqttTest\obj\Debug\netcoreapp2.1\mqttTest.pdb
+C:\Users\harith\source\repos\mqttTest\mqttTest\obj\Debug\netcoreapp2.1\mqttTest.csprojAssemblyReference.cache
