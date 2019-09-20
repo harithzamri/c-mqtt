@@ -7,7 +7,7 @@ using System;
 using System.Threading;
 using System.Threading.Tasks;
 
-
+// install Nuget MQTTNET library
 
 namespace mqttTest
 {
@@ -30,8 +30,8 @@ namespace mqttTest
 
                 var options = new MqttClientOptionsBuilder()
             .WithClientId(clientID)
-            .WithTcpServer("m16.cloudmqtt.com", 11588)
-            .WithCredentials("jhfsrkth", "LeA8c8Q7ZPoH")
+            .WithTcpServer("m16.cloudmqtt.com", 11588) // servername , port
+            .WithCredentials("jhfsrkth", "LeA8c8Q7ZPoH")// username , password
             .WithCleanSession()
             .Build();
 
